@@ -1,0 +1,25 @@
+.boton{
+    color: violet;
+    
+}
+body{
+    
+    background: rgb(255, 245, 255);
+}
+header {
+    color: violet;
+}
+section{
+    margin-top: 10%;
+    
+}
+
+.img{
+   width: auto;
+   max-height: min-content;
+
+}
+.row{
+    color: rgba(119, 52, 201, 0.829);
+    
+}
